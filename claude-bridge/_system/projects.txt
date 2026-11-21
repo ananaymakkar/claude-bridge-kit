@@ -1,0 +1,4 @@
+# One project per line: the bridge name, then the folder Claude Code works in (~ means your home folder).
+# The name must match the "Project:" line in task files and the notes/<name>.md file.
+bridge          ~/Developer/claude-bridge
+# my-website    ~/Developer/my-website

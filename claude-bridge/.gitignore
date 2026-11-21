@@ -1,0 +1,5 @@
+.DS_Store
+_system/runs/
+_system/.runner.lock/
+# Personal notes stay on this Mac and never go to GitHub
+private/
